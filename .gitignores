@@ -1,0 +1,8 @@
+*.tgz
+*.hdf5
+*.png
+*.jpeg
+*.jpg
+setences/
+words/
+*.xlsx
